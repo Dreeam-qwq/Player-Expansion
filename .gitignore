@@ -124,22 +124,6 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
-### VS Code ###
-.vscode/
-
-### Gradle ###
-.gradle/
-gradle-app.setting
-!gradle/wrapper/gradle-wrapper.jar
-!gradle/wrapper/gradle-wrapper.properties
-
-### OS/Logs ###
-*.log
-hs_err_pid*
-Thumbs.db
-Desktop.ini
-.DS_Store
-
 ### Maven ###
 target/
 pom.xml.tag
@@ -165,10 +149,3 @@ nbactions.xml
 
 ### Piggy's Debugging Shit ###
 server/
-gradlew.bat
-gradlew
-gradle/wrapper/gradle-wrapper.jar
-libs/HytaleServer.jar
-libs/papiHytale.jar
-
-gradle/wrapper/gradle-wrapper.properties
